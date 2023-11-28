@@ -1,2 +1,2 @@
 # delta-demo
-this is delta practice
+this is delta practice.
